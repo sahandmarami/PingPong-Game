@@ -1,5 +1,11 @@
 # 🏓 پینگ پنگ — بازی اندروید (فارسی و آفلاین)
 
+# 🏓 پینگ‌پنگ
+
+> **🎮 جدید — نسخه وب (HTML):** [بازی آنلاین](https://sahandmarami.github.io/PingPong-Game/) | [دانلود فایل بازی](https://github.com/sahandmarami/PingPong-Game/releases/download/v1.1.0/TableTennis-Farsi.html) — یک فایل، بدون نصب، آفلاین، فارسی
+
+
+
 بازی پینگ‌پنگ کامل اندروید: **بازیکن در برابر ربات**، فیزیک واقعی برخورد توپ و راکت، رندر دستی روی Canvas، رابط کاربری کاملاً فارسی (RTL) و اجرای صددرصد آفلاین.
 
 ![Platform](https://img.shields.io/badge/Android-8.0%2B%20(API%2026)-green)
